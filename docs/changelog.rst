@@ -11,7 +11,7 @@ New flavors:
 
 New fields for existing flavors:
 
-- None
+- Added CIN Number field in Morocco flavor (`gh-705 <https://github.com/django/django-localflavor/pull/507>`_).
 
 Modifications to existing flavors:
 
@@ -20,7 +20,10 @@ Modifications to existing flavors:
 
 Other changes:
 
-- None
+- Dropped support for Python 3.6 and 3.7.
+- Dropped support for Django 4.0.
+- Added support for Python 3.12.
+- Added support for Django 5.0.
 
 
 4.0   (2023-04-22)

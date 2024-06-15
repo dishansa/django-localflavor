@@ -2,6 +2,7 @@ Authors
 =======
 
 * Aaron Boman
+* Abdellah El Youssfi Alaoui
 * Adam Taylor
 * Adnane Belmadiaf
 * Adonys Alea Boffill
@@ -98,6 +99,7 @@ Authors
 * Nishit Shah
 * Olivier Sels
 * Olle Vidner
+* Paolo Melchiorre
 * Paul Cunnane
 * Paul Donohue
 * Paulo Poiati
